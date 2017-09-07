@@ -1,7 +1,7 @@
 # Resources
 This page contains resources in the field of Data Science for reading/learning
 
-Deep Learning:
+# I. Deep Learning:
 
 Backpropagation:
 1. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
@@ -9,3 +9,10 @@ Backpropagation:
 Convolution Neural Networks:
 1. https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
+# II. Big Data:
+
+1. Apache Spark:
+
+Ecosystem : https://www.dezyre.com/article/apache-spark-ecosystem-and-spark-components/219
+Tutorial : https://www.dezyre.com/apache-spark-tutorial/tutorial-introduction-to-apache-spark
+Setting up environment and running program : https://www.dezyre.com/apache-spark-tutorial/spark-tutorial
