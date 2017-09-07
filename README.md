@@ -14,5 +14,7 @@ Convolution Neural Networks:
 1. Apache Spark:
 
 Ecosystem : https://www.dezyre.com/article/apache-spark-ecosystem-and-spark-components/219
+
 Tutorial : https://www.dezyre.com/apache-spark-tutorial/tutorial-introduction-to-apache-spark
+
 Setting up environment and running program : https://www.dezyre.com/apache-spark-tutorial/spark-tutorial
