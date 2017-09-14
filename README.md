@@ -18,3 +18,7 @@ Ecosystem : https://www.dezyre.com/article/apache-spark-ecosystem-and-spark-comp
 Tutorial : https://www.dezyre.com/apache-spark-tutorial/tutorial-introduction-to-apache-spark
 
 Setting up environment and running program : https://www.dezyre.com/apache-spark-tutorial/spark-tutorial
+
+# III. Machine Learning
+
+1. Curse of Dimensionality : https://www.youtube.com/watch?v=IbE0tbjy6JQ
