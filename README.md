@@ -19,6 +19,8 @@ Tutorial : https://www.dezyre.com/apache-spark-tutorial/tutorial-introduction-to
 
 Setting up environment and running program : https://www.dezyre.com/apache-spark-tutorial/spark-tutorial
 
+PySpark for running Spark in Jupyter : https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f
+
 # III. Machine Learning
 
 1. Curse of Dimensionality : https://www.youtube.com/watch?v=IbE0tbjy6JQ
