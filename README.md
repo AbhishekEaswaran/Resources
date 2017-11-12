@@ -9,6 +9,9 @@ Backpropagation:
 Convolution Neural Networks:
 1. https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
+Recurrent Neural Networks:
+1. LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 # II. Big Data:
 
 1. Apache Spark:
