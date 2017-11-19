@@ -11,6 +11,7 @@ Convolution Neural Networks:
 
 Recurrent Neural Networks:
 1. LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+2. RNNs - https://www.youtube.com/watch?v=Ukgii7Yd_cU
 
 # II. Big Data:
 
